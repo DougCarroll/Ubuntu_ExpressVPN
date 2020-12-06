@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Express VPN Connect
+Comment=Express VPN Connect
+Keywords=vpn
+Exec=/home/<USERNAME>/VPN/expressvpn_connect
+Icon=/home/<USERNAME>/.icons/ExpressVPN.png
+NoDisplay=false
+Terminal=true
+Type=Application
