@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Express VPN Disconnect
+Comment=Express VPN Disconnect
+Keywords=vpn
+Exec=/home/<USERNAME>/VPN/expressvpn_disconnect
+Icon=/home/<USERNAME>/.icons/ExpressVPN.png
+NoDisplay=false
+Terminal=true
+Type=Application
