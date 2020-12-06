@@ -25,3 +25,4 @@ $sudo dpkg -i expressvpn_3.2.1.2-1_amd64.deb
 $expressvpn activate
 
 Then pull down these file from Github, change <USERNAME>, and you should be good to go.
+
